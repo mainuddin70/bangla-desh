@@ -4,3 +4,7 @@ width: 500px;}
 p{color: cadetblue;
 background-color: red;
 width:600px ;}
+p{
+    height: 150px;
+    font-size: 33px;
+}
